@@ -1,0 +1,8 @@
+**/*.ini
+**/.idea/
+**/.ipynb_checkpoints/
+**/data/
+**/logs/
+**/results/
+**/__pycache__/
+/venv/
